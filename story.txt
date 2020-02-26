@@ -6,5 +6,6 @@ This life was Deb Deppler. Deb, a being as old as time began to raom the earth.
 What she saw was nothing. As the good programmer that she is, the first
  thing she created was a message, Hello World.
 
-
+The world began to rise, and creature appeared on the land.
+In a second, her brain ran out of stack.
 
