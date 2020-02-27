@@ -9,3 +9,6 @@ What she saw was nothing. As the good programmer that she is, the first
 The world began to rise, and creature appeared on the land.
 In a second, her brain ran out of stack.
 
+With her brain on the loose, things quickly escalated and the makers
+began to lose control. They feared that in due time the program they had 
+created would gain enough intelligence to surpass their own grasp of control.
